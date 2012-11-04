@@ -8,9 +8,7 @@
 			</filelist>
 		</path>
 	
-		<taskdef resource="com/sun/javafx/tools/ant/antlib.xml"      
-			uri="javafx:com.sun.javafx.tools.ant"
-		classpath="${javafx.tools.ant.jar}"/>
+
 	</target>
 	<target name="setup-staging-area">
 		<delete dir="externalLibs" />

@@ -1,5 +1,8 @@
-jfx.build.stagingdir = ${workspace}/conrad-fx/build
-jfx.build.apptitle = conrad
-jfx.build.vendorname = johnk
-jfx.build.appversion = 1.0
-jfx.build.applicationClass = src.apliakce
+<?xml version="1.0" encoding="UTF-8"?>
+<anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://at.bestsolution.efxclipse.tooling.jdt/1.0" buildDirectory="${workspace}/AplikaceFX/build">
+  <deploy>
+    <application name="conrad" mainclass="src.apliakce" version="2.0"/>
+    <info vendor="johnkk"/>
+  </deploy>
+  <signjar/>
+</anttasks:AntTask>

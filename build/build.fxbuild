@@ -1,5 +1,0 @@
-jfx.build.stagingdir = ${workspace}/conrad-fx/build
-jfx.build.apptitle = conrad
-jfx.build.vendorname = johnk
-jfx.build.appversion = 1.0
-jfx.build.applicationClass = src.apliakce

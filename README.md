@@ -77,7 +77,7 @@ Special font for right text area
 - Connection to any website should work now, but stll shows in the console, not in textarea.
 - Console.java won't be needed, probably.
 - Eclipse JUNO doesn't support horizonatal lines like Sublime Text 2, fuck them.
-- Connection look almost done, need just search feauture. 
+- Connection looks almost done, need just search feauture. 
 
 **1.1**
 
