@@ -19,13 +19,16 @@ For future (potential TODO)
 
 # Changelog - "huge diary" #
 
+**Delete everything**
+
+- with knowledge of basic programming start from scratch. Is that already a 2.second try ?
+
 **1.5 JavaFX version (attempt to rewrite to JavaFX)**
 
 - Generated with Scene Builder FXML UI
-- 
 
 
-**1.4 "NOT finished" (swing version) **
+**1.4 "NOT finished" (swing version)**
 
 - httpclient ale nechat to kde se to zapisuje. != http://www.xxx.cz/vyrobek-nenalezen
 Toto si potreboval? Pokud chces zadavat vic cisel (rucne), das to do smycky. A program ukoncis napriklad stiskem enteru bez zadaneho textu. Takze napr.:
