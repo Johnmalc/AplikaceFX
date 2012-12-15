@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://at.bestsolution.efxclipse.tooling.jdt/1.0" buildDirectory="${workspace}/AplikaceFX/build">
+<anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://at.bestsolution.efxclipse.tooling.jdt/1.0" buildDirectory="${workspace}/AplikaceFX/build" cssToBin="true">
   <deploy>
-    <application name="conrad" mainclass="src.apliakce" version="2.0"/>
-    <info vendor="johnkk"/>
+    <application name="conrad" mainclass="src.Aplikace" version="2.0" toolkit="fx"/>
+    <info vendor="john malc"/>
   </deploy>
-  <signjar/>
+  <signjar alias="John" keypass="malcjohn" keystore="" storepass="120793" storetype="ot"/>
 </anttasks:AntTask>
